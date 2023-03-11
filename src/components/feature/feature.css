@@ -1,4 +1,4 @@
-.gpt3__features-container {
+.gpt3__feature-container {
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -53,7 +53,7 @@
   .gpt3__features-container__feature {
     margin: 1rem 0;
   }
-  .gpt3__features-container {
+  .gpt3__feature-container {
     flex-direction: column;
   }
 }
